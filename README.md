@@ -11,8 +11,8 @@ A real-time tracking system built javascript, node.js, Express, EJS, and CSS thi
 
 # Installation & Setup
 
-* git clone https://github.com/index.js/real-time-tracking.git
-cd real-time-tracking
+
+* cd real-time-tracking
 
 * npm install
 * node server.js
